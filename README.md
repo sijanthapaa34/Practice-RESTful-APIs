@@ -1,2 +1,3 @@
-# Movie-Rental-API
-A Spring Boot-based Movie Rental API system with support for managing movies, actors, customers, rentals, and payments.
+# Practice-RESTful-APIs
+A Spring Boot project for practicing RESTful API development, covering CRUD operations, HTTP methods, and JSON handling.
+
